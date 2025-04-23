@@ -1,1 +1,8 @@
-# TheGamingRoom
+# Reflection - Software Design for The Gaming Room
+
+Client Summary:
+The client, The Gaming Room, requested a web-based version of their existing Android game Draw It or Lose It. The game involves team-based guessing with rounds and a timed format. The client requested that the game be supported by multiple platforms, enforced unique names for teams and games, and limit it to a single instance of the gaming running at a time.
+
+Reflection:
+One aspect I believe I executed partuclaryly well in this project was following UML diagrams provided and being able to add on to them since they omitted information. I was able to appropriately define relationships between the Game, Team, and Player classes, which helped me understand the full system provided and move towards a more smooth process with the required coding that was given to us. Working through the design document early on gave me a chance to evaluate different operating systems and architecture types and be able to expand upon these as we continued to learn more as we worked on this project. It also pushed me to consider user needs and client requiremnets when working on developing this program.
+If I were to revist this project, I would focus on enhancing the Evaluation section with better data to support architectural choices and recommendations given later on in the document. Regardless, this process has helped solidify my approach on software design, from user requirements, visualizing system relationships through the usage of UML diagrams, and then layering in architectural and security considerations. In the future, I would continue using this structured, user-centered design strategy while also incorporating other approaches to ensure that my recommendations are more strategic and evidence based.
